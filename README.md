@@ -5,3 +5,8 @@
 # Add Fibonacci.py
 # Add Fibonacci_seq.py
 ## Add test-request.http
+```python
+def foo():
+    if not bar:
+        return True
+```
